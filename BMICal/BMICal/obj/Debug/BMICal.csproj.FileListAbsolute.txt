@@ -1,0 +1,9 @@
+C:\Users\-e-\Desktop\C# Project\BMICal\BMICal\bin\Debug\BMICal.exe.config
+C:\Users\-e-\Desktop\C# Project\BMICal\BMICal\bin\Debug\BMICal.exe
+C:\Users\-e-\Desktop\C# Project\BMICal\BMICal\bin\Debug\BMICal.pdb
+C:\Users\-e-\Desktop\C# Project\BMICal\BMICal\obj\Debug\BMICal.csprojResolveAssemblyReference.cache
+C:\Users\-e-\Desktop\C# Project\BMICal\BMICal\obj\Debug\BMICal.Properties.Resources.resources
+C:\Users\-e-\Desktop\C# Project\BMICal\BMICal\obj\Debug\BMICal.csproj.GenerateResource.Cache
+C:\Users\-e-\Desktop\C# Project\BMICal\BMICal\obj\Debug\BMICal.exe
+C:\Users\-e-\Desktop\C# Project\BMICal\BMICal\obj\Debug\BMICal.pdb
+C:\Users\-e-\Desktop\C# Project\BMICal\BMICal\obj\Debug\BMICal.bmiCal.resources
