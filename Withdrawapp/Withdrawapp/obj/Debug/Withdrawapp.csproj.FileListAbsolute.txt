@@ -1,0 +1,9 @@
+C:\Users\-e-\Desktop\C# Project\Withdrawapp\Withdrawapp\bin\Debug\Withdrawapp.exe.config
+C:\Users\-e-\Desktop\C# Project\Withdrawapp\Withdrawapp\bin\Debug\Withdrawapp.exe
+C:\Users\-e-\Desktop\C# Project\Withdrawapp\Withdrawapp\bin\Debug\Withdrawapp.pdb
+C:\Users\-e-\Desktop\C# Project\Withdrawapp\Withdrawapp\obj\Debug\Withdrawapp.csprojResolveAssemblyReference.cache
+C:\Users\-e-\Desktop\C# Project\Withdrawapp\Withdrawapp\obj\Debug\Withdrawapp.Properties.Resources.resources
+C:\Users\-e-\Desktop\C# Project\Withdrawapp\Withdrawapp\obj\Debug\Withdrawapp.csproj.GenerateResource.Cache
+C:\Users\-e-\Desktop\C# Project\Withdrawapp\Withdrawapp\obj\Debug\Withdrawapp.exe
+C:\Users\-e-\Desktop\C# Project\Withdrawapp\Withdrawapp\obj\Debug\Withdrawapp.pdb
+C:\Users\-e-\Desktop\C# Project\Withdrawapp\Withdrawapp\obj\Debug\Withdrawapp.withdrawApp.resources
